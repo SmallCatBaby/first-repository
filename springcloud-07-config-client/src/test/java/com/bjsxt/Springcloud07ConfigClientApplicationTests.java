@@ -11,6 +11,7 @@ public class Springcloud07ConfigClientApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("hello 1231231321");
     }
 
 }
